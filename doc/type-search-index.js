@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ahiru.timetable","l":"ServletInitializer"},{"p":"com.ahiru.timetable","l":"TimeTableApplication"}];updateSearchResults();
